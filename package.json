@@ -13,7 +13,12 @@
     "precommit-msg",
     "lint"
   ],
-  "keywords": ["react", "sass", "airbnb", "webpack"],
+  "keywords": [
+    "react",
+    "sass",
+    "airbnb",
+    "webpack"
+  ],
   "author": "jperazafeliciano@gmail.com",
   "license": "MIT",
   "babel": {
@@ -59,10 +64,11 @@
     "react": "^16.2.0",
     "react-bootstrap": "^0.31.5",
     "react-dom": "^16.2.0",
-    "react-redux": "^5.0.6",
+    "react-redux": "^5.0.7",
     "redux": "^3.7.2",
     "redux-devtools-extension": "^2.13.2",
     "redux-logger": "^3.0.6",
+    "redux-saga": "^0.16.0",
     "redux-thunk": "^2.2.0"
   }
 }
